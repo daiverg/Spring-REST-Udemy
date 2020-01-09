@@ -14,6 +14,9 @@ Spring REST Demo</h3>
 
 <p>
 <a href="${pageContext.request.contextPath}/test/hello"> Hello page</a>
+<br><br><br>
+<hr>
+<a href="${pageContext.request.contextPath}/api/students">Get All Students</a>
 </p>
 
 
